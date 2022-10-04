@@ -3,8 +3,8 @@ Eu sou a Paloma, tenho 25 anos e estou migrando da área do design para a área 
 
 <div>
    <a href="https://github.com/palomarizzon">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=palomarizzon&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=palomarizzon&layout=compact&langs_count=6&theme=midnight-purple"/>
+   <img height="180em" width="500em" src="https://github-readme-stats.vercel.app/api?username=palomarizzon&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+   <img height="180em" width="500em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=palomarizzon&layout=compact&langs_count=6&theme=midnight-purple"/>
 </div>
 
 <div style="display: inline_block"><br>
