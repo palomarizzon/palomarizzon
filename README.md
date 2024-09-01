@@ -1,7 +1,7 @@
 ## 💜 Sejam bem-vindos! 💜
 <div style="display: inline">
-   <img height="190em" width="45%" src="https://github-readme-stats.vercel.app/api?username=palomarizzon&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-   <img height="190em" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=palomarizzon&layout=compact&langs_count=12&theme=midnight-purple"/>
+   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=palomarizzon&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=palomarizzon&layout=compact&langs_count=12&theme=midnight-purple"/>
 </div>
 
   ### 💻 Tecnologias
