@@ -1,10 +1,11 @@
-## 💜 Sejam bem-vindos! 💜
+## 💜 Sejam bem-vindos! / Welcome 💜
+<!---
 <div style="display: inline">
    <img height="170em" src="https://github-readme-stats.vercel.app/api?username=palomarizzon&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
    <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=palomarizzon&layout=compact&langs_count=12&theme=midnight-purple"/>
-</div>
+</div>--->
 
-  ### 💻 Tecnologias
+  ### 💻 Tecnologias / Stacks
 <div style="display: inline_flex; align-items: center">
    <img alt="Visual Studio Code" height="40" width="40"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
    <img alt="Visual Studio" height="40" width="40"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-original.svg">
@@ -24,8 +25,14 @@
 </div>
 <br>
 
-  ### 💻 Contato no LinkedIn
+  ### 💻 LinkedIn
   <a href="https://www.linkedin.com/in/palomarizzon" target="_blank"><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg"></a>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://githubusercontent.com" />
+  <source media="(prefers-color-scheme: light)" srcset="https://githubusercontent.com" />
+  <img alt="github-snake" src="https://githubusercontent.com" />
+</picture>
 
 <!---
 <picture>
